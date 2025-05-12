@@ -1,7 +1,7 @@
 // any type
 let typeOfAny: any;
 typeOfAny = 10;
-typeOfAny = "string";
+typeOfAny = 'string';
 typeOfAny = true;
 typeOfAny = {};
 typeOfAny = [];
